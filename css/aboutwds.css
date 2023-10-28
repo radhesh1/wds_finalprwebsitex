@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.upper {
+    
+    height: 30rem;                                  ;
+    position: relative;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.lower{
+    height: 30rem;
+    position: relative;
+    width : 100%;
+    background-color: aliceblue;
+    padding: 180px;
+    font-size: 1.2rem;
+    
+}
+.gif{
+   
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    
+}
+.image{
+
+    margin-left: 42%;
+position: absolute;
+top: 155% ;
+z-index: 1;
+}
+.heading {
+    color: white;
+    line-height: 1.2em;
+    font-size: 70px;
+    
+}
