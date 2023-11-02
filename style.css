@@ -1456,6 +1456,7 @@ z-index: 1;
 }
 @media(min-width:150px) and (max-width:376px)
 {
+
   body
   {
     overflow-x: hidden;
@@ -1478,13 +1479,12 @@ z-index: 1;
 }
 .gif{
   position:relative;
-  top:-120px;
-  right: 45px;
+  top:-186px;
+  right: 55px;
   width: 175px;
   height: 175px;
   object-fit: cover;
-  border-radius: 50%;
-  
+  border-radius: 50%;  
 }
 .lower{
   height: 50rem;
@@ -1620,7 +1620,7 @@ video
 }
 .gif{
   position:relative;
-  top:-210px;
+  top:-235px;
   right: 45px;
   width: 175px;
   height: 175px;
@@ -1761,7 +1761,7 @@ video
 }
 .gif{
   position:relative;
-  top:-140px;
+  top: -208px;
   right: 45px;
   width: 175px;
   height: 175px;
@@ -1917,7 +1917,7 @@ video
 }
 .gif{
   position:relative;
-  top:-350px;
+  top: -214px;
   right: 45px;
   width: 175px;
   height: 175px;
@@ -2074,7 +2074,7 @@ video
 }
 .gif{
   position:relative;
-  top:-500px;
+  top:-218px;
   right: 45px;
   width: 175px;
   height: 175px;
@@ -2231,8 +2231,9 @@ video
 }
 .gif{
   position:relative;
-  top:-100px;
+  top:-173px;
   right: 18px;
+  left: 34px;
   width: 175px;
   height: 175px;
   object-fit: cover;
